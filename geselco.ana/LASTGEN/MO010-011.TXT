@@ -1,0 +1,15 @@
+//MO010-011.TXT ANA00010 TO ANA00011
+t_users		FCNX+	Connexion à 'DESKTOP-ETAF28A'	
+t_ampliations		FCNX+	Connexion à 'DESKTOP-ETAF28A'	
+t_registres		FCNX+	Connexion à 'DESKTOP-ETAF28A'	
+t_courrier_arrivees		FCNX+	Connexion à 'DESKTOP-ETAF28A'	
+t_contacts		FCNX+	Connexion à 'DESKTOP-ETAF28A'	
+t_factures		FCNX+	Connexion à 'DESKTOP-ETAF28A'	
+t_courrier_arrivee_reference		FCNX+	Connexion à 'DESKTOP-ETAF28A'	
+t_courrier_depart_reference		FCNX+	Connexion à 'DESKTOP-ETAF28A'	
+t_courrier_depart		FCNX+	Connexion à 'DESKTOP-ETAF28A'	
+t_reponses		FCNX+	Connexion à 'DESKTOP-ETAF28A'	
+t_reaffectation_courrier		FCNX+	Connexion à 'DESKTOP-ETAF28A'	
+t_corbeille_courrier_arrivee		FCNX+	Connexion à 'DESKTOP-ETAF28A'	
+t_corbeille_courrier_depart		FCNX+	Connexion à 'DESKTOP-ETAF28A'	
+Connexion à 'DESKTOP-ETAF28A'		CNX+		

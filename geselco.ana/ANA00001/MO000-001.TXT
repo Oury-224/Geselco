@@ -1,0 +1,6 @@
+//MO000-001.TXT ANA00000 TO ANA00001
+t_users		NFI		nouveau fichier
+t_ampliations		NFI		nouveau fichier
+t_registres		NFI		nouveau fichier
+t_courrier_arrivees		NFI		nouveau fichier
+t_registres		NWL	t_registres (ref_registre) et t_courrier_arrivees (Ref_registre)	Nouvelle liaison entre les fichiers t_registres (ref_registre) et t_courrier_arrivees (Ref_registre)

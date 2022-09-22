@@ -1,0 +1,6 @@
+;PCSoft - Hyper File V7.00 - REP V7.00
+;Do not edit. Please use specific tools.
+ANALYSISGUID=F	;Analysis GUID
+LOCALIZATION_UTF8=0AF08FD58F8D45D2960EB4070F6836D6	t_registres	C:\Mes Projets\geselco\EXE\t_registres.fic
+LOCALIZATION_UTF8=804B82AE3FA04DE18D2696C40F7A1594	t_courrier_arrivees	C:\Mes Projets\geselco\EXE\t_courrier_arrivees.fic
+LOCALIZATION_UTF8=D32C8291AA90464F8A6232216555FAE9	t_courrier_arrivee_reference	C:\Mes Projets\geselco\geselco\EXE\t_courrier_arrivee_reference.fic

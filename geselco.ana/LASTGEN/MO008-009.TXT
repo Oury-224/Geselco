@@ -1,0 +1,5 @@
+//MO008-009.TXT ANA00008 TO ANA00009
+t_courrier_depart		TAR	2331	nouvelle taille enregistrement : 2331
+t_courrier_depart	IDt_contacts	RUB+		IDt_contacts est une nouvelle clé
+t_courrier_depart	destinataire	RUB-		la rubrique destinataire est supprimée
+t_contacts		NWL	t_contacts (IDt_contacts) et t_courrier_depart (IDt_contacts)	Nouvelle liaison entre les fichiers t_contacts (IDt_contacts) et t_courrier_depart (IDt_contacts)

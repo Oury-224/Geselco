@@ -1,0 +1,28 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+t_ampliations	Ref_depart	RUB+		Ref_depart est une nouvelle clé
+t_ampliations	ref_courrier_depart	RUB-		la rubrique ref_courrier_depart est supprimée
+t_registres		TAR	530	nouvelle taille enregistrement : 530
+t_registres	ref_registre	TAI+	205	la rubrique ref_registre a comme nouvelle taille 256 au lieu de 51
+t_registres	type_courrier	TAI+	205	la rubrique type_courrier a comme nouvelle taille 256 au lieu de 51
+t_registres	date_courrier	CNW	Date (aaaammjj)$Chaîne	la rubrique date_courrier a pour nouveau type Date (aaaammjj)
+t_courrier_arrivees		TAR	2331	nouvelle taille enregistrement : 2331
+t_courrier_arrivees	Ref_registre	TAI+	205	la rubrique Ref_registre a comme nouvelle taille 256 au lieu de 51
+t_courrier_arrivees	IDt_contacts	RUB+		IDt_contacts est une nouvelle clé
+t_courrier_arrivees	Ref_facture	RUB+		Ref_facture est une nouvelle clé
+t_courrier_arrivees	date_arrivee	CNW	Date (aaaammjj)$Chaîne	la rubrique date_arrivee a pour nouveau type Date (aaaammjj)
+t_contacts		NFI		nouveau fichier
+t_factures		NFI		nouveau fichier
+t_courrier_arrivee_reference		NFI		nouveau fichier
+t_courrier_depart_reference		NFI		nouveau fichier
+t_courrier_depart		NFI		nouveau fichier
+t_reponses		NFI		nouveau fichier
+t_reaffectation_courrier		NFI		nouveau fichier
+t_corbeille_courrier_arrivee		NFI		nouveau fichier
+t_corbeille_courrier_depart		NFI		nouveau fichier
+t_contacts		NWL	t_contacts (IDt_contacts) et t_courrier_arrivees (IDt_contacts)	Nouvelle liaison entre les fichiers t_contacts (IDt_contacts) et t_courrier_arrivees (IDt_contacts)
+t_factures		NWL	t_factures (ref_facture) et t_courrier_arrivees (Ref_facture)	Nouvelle liaison entre les fichiers t_factures (ref_facture) et t_courrier_arrivees (Ref_facture)
+t_registres		NWL	t_registres (ref_registre) et t_courrier_depart (Ref_registre)	Nouvelle liaison entre les fichiers t_registres (ref_registre) et t_courrier_depart (Ref_registre)
+t_courrier_depart		NWL	t_courrier_depart (ref_depart) et t_ampliations (Ref_depart)	Nouvelle liaison entre les fichiers t_courrier_depart (ref_depart) et t_ampliations (Ref_depart)
+t_factures		NWL	t_factures (ref_facture) et t_courrier_depart (Ref_facture)	Nouvelle liaison entre les fichiers t_factures (ref_facture) et t_courrier_depart (Ref_facture)
+t_courrier_arrivees		NWL	t_courrier_arrivees (ref_arrivee) et t_reponses (Ref_arrivee)	Nouvelle liaison entre les fichiers t_courrier_arrivees (ref_arrivee) et t_reponses (Ref_arrivee)
+t_courrier_arrivees		NWL	t_courrier_arrivees (ref_arrivee) et t_reaffectation_courrier (Ref_arrivee)	Nouvelle liaison entre les fichiers t_courrier_arrivees (ref_arrivee) et t_reaffectation_courrier (Ref_arrivee)

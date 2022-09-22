@@ -1,0 +1,3 @@
+//MO020-021.TXT ANA00020 TO ANA00021
+t_evenement		TAR	1313	nouvelle taille enregistrement : 1313
+t_evenement	type_evenement	RUB+		type_evenement est une nouvelle rubrique

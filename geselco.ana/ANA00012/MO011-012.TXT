@@ -1,0 +1,40 @@
+//MO011-012.TXT ANA00011 TO ANA00012
+t_users		BASE		La base du fichier est passée de HFSQL Client/Serveur à HFSQL Classic
+t_users		FCNX-	Connexion à 'DESKTOP-ETAF28A'	
+t_ampliations		BASE		La base du fichier est passée de HFSQL Client/Serveur à HFSQL Classic
+t_ampliations		FCNX-	Connexion à 'DESKTOP-ETAF28A'	
+t_registres		BASE		La base du fichier est passée de HFSQL Client/Serveur à HFSQL Classic
+t_registres		FCNX-	Connexion à 'DESKTOP-ETAF28A'	
+t_courrier_arrivees		BASE		La base du fichier est passée de HFSQL Client/Serveur à HFSQL Classic
+t_courrier_arrivees		FCNX-	Connexion à 'DESKTOP-ETAF28A'	
+t_contacts		BASE		La base du fichier est passée de HFSQL Client/Serveur à HFSQL Classic
+t_contacts		FCNX-	Connexion à 'DESKTOP-ETAF28A'	
+t_factures		BASE		La base du fichier est passée de HFSQL Client/Serveur à HFSQL Classic
+t_factures		FCNX-	Connexion à 'DESKTOP-ETAF28A'	
+t_courrier_arrivee_reference		BASE		La base du fichier est passée de HFSQL Client/Serveur à HFSQL Classic
+t_courrier_arrivee_reference		FCNX-	Connexion à 'DESKTOP-ETAF28A'	
+t_courrier_depart_reference		BASE		La base du fichier est passée de HFSQL Client/Serveur à HFSQL Classic
+t_courrier_depart_reference		FCNX-	Connexion à 'DESKTOP-ETAF28A'	
+t_courrier_depart		BASE		La base du fichier est passée de HFSQL Client/Serveur à HFSQL Classic
+t_courrier_depart		FCNX-	Connexion à 'DESKTOP-ETAF28A'	
+t_reponses		BASE		La base du fichier est passée de HFSQL Client/Serveur à HFSQL Classic
+t_reponses		FCNX-	Connexion à 'DESKTOP-ETAF28A'	
+t_reaffectation_courrier		BASE		La base du fichier est passée de HFSQL Client/Serveur à HFSQL Classic
+t_reaffectation_courrier		FCNX-	Connexion à 'DESKTOP-ETAF28A'	
+t_corbeille_courrier_arrivee		BASE		La base du fichier est passée de HFSQL Client/Serveur à HFSQL Classic
+t_corbeille_courrier_arrivee		FCNX-	Connexion à 'DESKTOP-ETAF28A'	
+t_corbeille_courrier_depart		BASE		La base du fichier est passée de HFSQL Client/Serveur à HFSQL Classic
+t_corbeille_courrier_depart		FCNX-	Connexion à 'DESKTOP-ETAF28A'	
+t_users		FRN		
+t_ampliations		FRN		
+t_registres		FRN		
+t_courrier_arrivees		FRN		
+t_contacts		FRN		
+t_factures		FRN		
+t_courrier_arrivee_reference		FRN		
+t_courrier_depart_reference		FRN		
+t_courrier_depart		FRN		
+t_reponses		FRN		
+t_reaffectation_courrier		FRN		
+t_corbeille_courrier_arrivee		FRN		
+t_corbeille_courrier_depart		FRN		

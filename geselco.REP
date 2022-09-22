@@ -1,0 +1,34 @@
+;PCSoft - Hyper File V7.00 - REP V7.00
+;Do not edit. Please use specific tools.
+ANALYSISGUID=F	;Analysis GUID
+LOCALIZATION_UTF8=C852AA8A26BB460881F3079C923F2F90	t_users	C:\Mes Projets\geselco\Exe\t_users.fic
+LOCALIZATION_UTF8=CF5B4D56B28043CF9FB51562650F2D1C	t_contacts	C:\Mes Projets\geselco\Exe\t_contacts.fic
+LOCALIZATION_UTF8=0AF08FD58F8D45D2960EB4070F6836D6	t_registres	C:\Mes Projets\geselco\Exe\t_registres.fic
+LOCALIZATION_UTF8=B996277D022649149650E20523DDF462	t_factures	C:\Mes Projets\geselco\Exe\t_factures.fic
+LOCALIZATION_UTF8=804B82AE3FA04DE18D2696C40F7A1594	t_courrier_arrivees	C:\Mes Projets\geselco\Exe\t_courrier_arrivees.fic
+LOCALIZATION_UTF8=AEA1C5108CD64D5C958032BC87A78B34	t_courrier_depart	C:\Mes Projets\geselco\Exe\t_courrier_depart.fic
+LOCALIZATION_UTF8=2AEA7238F4364A1DAB76AAEA88011CDC	t_corbeille_courrier_arrivee	C:\Mes Projets\geselco\Exe\t_corbeille_courrier_arrivee.fic
+LOCALIZATION_UTF8=7D9886A39F9242B7BC40C5F1B13B7F9D	t_corbeille_courrier_depart	C:\Mes Projets\geselco\Exe\t_corbeille_courrier_depart.fic
+LOCALIZATION_UTF8=D32C8291AA90464F8A6232216555FAE9	t_courrier_arrivee_reference	C:\Mes Projets\geselco\Exe\t_courrier_arrivee_reference.fic
+LOCALIZATION_UTF8=9239FA2C54E443A0A314A0B4048FABD6	t_courrier_depart_reference	C:\Mes Projets\geselco\Exe\t_courrier_depart_reference.fic
+LOCALIZATION_UTF8=DCAE4AF2C00A49B2AA4F17ED4020250E	t_reaffectation_courrier	C:\Mes Projets\geselco\Exe\t_reaffectation_courrier.fic
+LOCALIZATION_UTF8=A067236E736848379CE4520E3C7F18EC	t_reponses	C:\Mes Projets\geselco\Exe\t_reponses.fic
+LOCALIZATION_UTF8=1D13BA7DB9F74B4C9318C2E74486279D	t_ampliations	C:\Mes Projets\geselco\Exe\t_ampliations.fic
+LOCALIZATION_UTF8=A067236E736848379CE4520E3C7F18EC	t_suivis	C:\Mes Projets\geselco\Exe\t_suivis.fic
+LOCALIZATION_UTF8=D8B5AEA7F8B743C2943EA04E8E545B2E	t_historique_courrier_entree	C:\Mes Projets\geselco\Exe\t_historique_courrier_entree.fic
+LOCALIZATION_UTF8=C2A4ABF8312A4769AB26DFE8881288BF	t_historique_courrier_depart	C:\Mes Projets\geselco\Exe\t_historique_courrier_depart.fic
+LOCALIZATION_UTF8=2B743ED39C594EF7AAA43908216CFC12	t_evenement	C:\Mes Projets\geselco\Exe\t_evenement.fic
+LOCALIZATION_UTF8=C852AA8A26BB460881F3079C923F2F90	t_users	C:\Mes Projets\geselco\geselco\Exe\t_users.fic
+LOCALIZATION_UTF8=CF5B4D56B28043CF9FB51562650F2D1C	t_contacts	C:\Mes Projets\geselco\geselco\Exe\t_contacts.fic
+LOCALIZATION_UTF8=0AF08FD58F8D45D2960EB4070F6836D6	t_registres	C:\Mes Projets\geselco\geselco\Exe\t_registres.fic
+LOCALIZATION_UTF8=B996277D022649149650E20523DDF462	t_factures	C:\Mes Projets\geselco\geselco\Exe\t_factures.fic
+LOCALIZATION_UTF8=804B82AE3FA04DE18D2696C40F7A1594	t_courrier_arrivees	C:\Mes Projets\geselco\geselco\Exe\t_courrier_arrivees.fic
+LOCALIZATION_UTF8=2AEA7238F4364A1DAB76AAEA88011CDC	t_corbeille_courrier_arrivee	C:\Mes Projets\geselco\geselco\Exe\t_corbeille_courrier_arrivee.fic
+LOCALIZATION_UTF8=AEA1C5108CD64D5C958032BC87A78B34	t_courrier_depart	C:\Mes Projets\geselco\geselco\Exe\t_courrier_depart.fic
+LOCALIZATION_UTF8=A067236E736848379CE4520E3C7F18EC	t_suivis	C:\Mes Projets\geselco\geselco\Exe\t_suivis.fic
+LOCALIZATION_UTF8=1D13BA7DB9F74B4C9318C2E74486279D	t_ampliations	C:\Mes Projets\geselco\geselco\Exe\t_ampliations.fic
+LOCALIZATION_UTF8=DCAE4AF2C00A49B2AA4F17ED4020250E	t_reaffectation_courrier	C:\Mes Projets\geselco\geselco\Exe\t_reaffectation_courrier.fic
+LOCALIZATION_UTF8=7D9886A39F9242B7BC40C5F1B13B7F9D	t_corbeille_courrier_depart	C:\Mes Projets\geselco\geselco\Exe\t_corbeille_courrier_depart.fic
+LOCALIZATION_UTF8=D8B5AEA7F8B743C2943EA04E8E545B2E	t_historique_courrier_entree	C:\Mes Projets\geselco\geselco\Exe\t_historique_courrier_entree.fic
+LOCALIZATION_UTF8=C2A4ABF8312A4769AB26DFE8881288BF	t_historique_courrier_depart	C:\Mes Projets\geselco\geselco\Exe\t_historique_courrier_depart.fic
+LOCALIZATION_UTF8=2B743ED39C594EF7AAA43908216CFC12	t_evenement	C:\Mes Projets\geselco\geselco\Exe\t_evenement.fic

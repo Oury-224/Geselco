@@ -1,0 +1,2 @@
+//MO015-016.TXT ANA00015 TO ANA00016
+t_historique_courrier_entree		NFI		nouveau fichier

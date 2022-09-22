@@ -1,0 +1,2 @@
+//MO016-017.TXT ANA00016 TO ANA00017
+t_historique_courrier_entree	utilisateur	NNR	user	ATTENTION : la rubrique user a pour nouveau nom utilisateur

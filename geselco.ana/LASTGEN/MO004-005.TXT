@@ -1,0 +1,3 @@
+//MO004-005.TXT ANA00004 TO ANA00005
+t_courrier_arrivees		TAR	2587	nouvelle taille enregistrement : 2587
+t_courrier_arrivees	nom_expediteur	RUB+		nom_expediteur est une nouvelle rubrique

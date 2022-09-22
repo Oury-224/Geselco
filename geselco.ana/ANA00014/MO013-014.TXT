@@ -1,0 +1,4 @@
+//MO013-014.TXT ANA00013 TO ANA00014
+t_services		NFI		nouveau fichier
+t_users		NWL	t_users (IDt_users) et t_services (IDt_users)	Nouvelle liaison entre les fichiers t_users (IDt_users) et t_services (IDt_users)
+t_services		FRN		

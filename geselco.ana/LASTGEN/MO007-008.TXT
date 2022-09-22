@@ -1,0 +1,5 @@
+//MO007-008.TXT ANA00007 TO ANA00008
+t_corbeille_courrier_arrivee		TAR	2587	nouvelle taille enregistrement : 2587
+t_corbeille_courrier_arrivee	nom_expediteur	RUB+		nom_expediteur est une nouvelle rubrique
+t_corbeille_courrier_depart		TAR	2587	nouvelle taille enregistrement : 2587
+t_corbeille_courrier_depart	nom_expediteur	RUB-		la rubrique nom_expediteur est supprimée
